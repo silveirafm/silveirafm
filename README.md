@@ -64,6 +64,8 @@ I have extensive experience working with systems for public sector and municipal
 
 My work often involves maintaining and improving production systems, analyzing complex requirements, creating database procedures, optimizing routines, supporting users and consultants, and ensuring system stability in real-world environments.
 
+Most of my professional development activity is performed in private repositories for business and public sector systems.
+
 ---
 
 ## 🌎 Open to Opportunities
@@ -79,11 +81,16 @@ I am open to international remote opportunities as:
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
+
+Most of my professional work is done in private repositories for business and public sector systems.  
+My GitHub profile is focused on presenting my technical background, main skills, and selected public activity.
 
 <div align="center">
 
-[![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silveirafm&theme=codeSTACKr)](https://github.com/silveirafm)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=silveirafm&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silveirafm&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
