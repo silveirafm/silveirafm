@@ -1,4 +1,4 @@
-# Hi, I'm Fernando Marques da Silveira 👋
+# Hi, I'm Fernando Silveira 👋
 
 **Senior PHP Developer | Backend Developer | Systems Analyst**
 
@@ -26,14 +26,11 @@ My background includes developing and maintaining web-based systems using **PHP,
 
 ## 🛠️ Technologies & Tools
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,postgres,mysql,linux,ubuntu,debian,apache,git,github,html,css,javascript,bootstrap,jquery,vscode" />
+  </a>
+</div>
 
 ---
 
@@ -79,6 +76,16 @@ I am open to international remote opportunities as:
 - Software Developer
 - Systems Analyst
 - Technical Lead PHP
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+[![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silveirafm&theme=codeSTACKr)](https://github.com/silveirafm)
+
+</div>
 
 ---
 
