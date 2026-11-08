@@ -1,28 +1,20 @@
-# Hi, I'm Fernando Silveira 👋
+Hi, I'm Fernando Silveira 👋
+Senior Software Engineer | Applied AI & AI-Assisted Security
 
-**Senior PHP Developer | Backend Developer | Systems Analyst**
+Backend development · Secure software architecture · Production systems
 
-Experienced in **Linux Server Administration, PostgreSQL, Apache, database-driven systems, and production environments**.
+I'm a software engineer based in Brazil with 15+ years of experience across software development, systems analysis, databases, infrastructure, and production support.
 
-I am a Senior PHP Developer and Systems Analyst from Brazil with over 15 years of experience in software development, backend systems, database management, server administration, technical support, and production troubleshooting.
+My current focus combines software engineering, applied AI, and AI-assisted security. I bring practical experience with complex business rules, integrations, and production troubleshooting to the way I design and improve software.
 
-My background includes developing and maintaining web-based systems using **PHP, PostgreSQL, MySQL, Firebird, Linux, Apache, SQL, and Windows Server**. I have strong experience with public sector and municipal management systems, complex business rules, database routines, integrations, performance tuning, user support, and system implementation.
-
----
-
-## 🚀 Main Focus
-
-- Backend development with PHP
-- Database-driven applications
-- Systems analysis and requirements gathering
-- PostgreSQL and SQL routines
-- Linux / Debian / Ubuntu server environments
-- Apache web server administration
-- Production support and troubleshooting
-- Legacy system maintenance and modernization
-- Public sector and municipal management systems
-
----
+I have a strong background in public-sector and municipal management systems, including tax administration, billing, fiscal routines, and administrative workflows. My work connects technical decisions with the needs of users, consultants, and development teams.
+What I work on
+Area	Focus
+Software engineering	Backend architecture, API integrations, requirements analysis, database routines, and legacy modernization.
+Applied AI	LLM integration, local speech processing, workflow automation, and privacy-aware application design.
+AI-assisted security	Applying AI to support technical investigation, log interpretation, and security review, with human validation and controlled access.
+Application security	Authorization, least-privilege access, credential protection, input validation, and secure integrations.
+Production systems	Linux and Apache administration, database performance, backups, troubleshooting, and operational reliability.
 
 ## 🛠️ Technologies & Tools
 
@@ -34,52 +26,43 @@ My background includes developing and maintaining web-based systems using **PHP,
 
 ---
 
-## 💻 Technical Skills
+Selected work
+Local AI assistant — prototype
+I have worked on a desktop assistant that combines local speech recognition and speech synthesis with an optional LLM integration. The design supports local operation without a cloud LLM and includes controls around credentials, input size, and processing limits.
 
-- PHP Development
-- Backend Development
-- Systems Analysis
-- PostgreSQL
-- MySQL
-- Firebird
-- SQL
-- Linux Server Administration
-- Debian / Ubuntu
-- Apache Web Server
-- Windows Server
-- Database Administration
-- Server Administration
-- Backup Management
-- Performance Tuning
-- Production Support
-- Technical Support
-- User Training
-- Legacy Systems
+This work brings together Rust, Tauri, TypeScript, SQLite, and Whisper, with attention to privacy and the interaction between the interface, backend, and AI components.
+Operational dashboards and integrations
+I develop backend applications and operational dashboards with PHP, Laravel, and PostgreSQL, including queued processing, webhooks, and integrations with external services.
 
----
+My projects incorporate controls such as OAuth with PKCE, role-based authorization, encrypted tokens, webhook signature verification, and deduplication. Automated tests, static analysis, and dependency auditing support the delivery workflow.
+Public-sector systems and modernization
+My experience includes maintaining and improving municipal systems with complex fiscal and administrative rules. I work on requirements analysis, database procedures, integrations, performance tuning, production troubleshooting, and support for users and consultants.
 
-## 🏛️ Professional Experience
+Most of my professional work is maintained in private repositories. The descriptions here summarize that work without exposing client data or internal implementation details.
+How I build
+- Understand the problem: clarify business rules, operational constraints, and the people affected by a change.
+- Design for security: define access boundaries, protect credentials, validate inputs, and limit permissions.
+- Use AI with engineering judgment: provide relevant context, review generated output, and validate changes before relying on them.
+- Make quality repeatable: use tests, static analysis, code review, and dependency checks as part of delivery.
+- Keep systems maintainable: document decisions and consider failure handling, diagnostics, and support from the start.
+Technologies
+Area	Technologies
+Backend	PHP, Laravel, SQL, API integrations
+Databases	PostgreSQL, MySQL, Firebird, SQLite
+Web interfaces	TypeScript, JavaScript, Blade, HTML, CSS
+AI and desktop applications	LLM integrations, Whisper, Rust, Tauri
+Infrastructure	Linux, Debian, Ubuntu, Apache, Windows Server
+Engineering tools	Git, GitHub, CI workflows, automated testing, static analysis
 
-I have extensive experience working with systems for public sector and municipal environments, including tax administration, billing, fiscal routines, administrative workflows, and database-driven business rules.
 
-My work often involves maintaining and improving production systems, analyzing complex requirements, creating database procedures, optimizing routines, supporting users and consultants, and ensuring system stability in real-world environments.
+Opportunities
+I'm open to international remote opportunities in senior software engineering, technical leadership, backend development, and applied AI.
 
-Most of my professional development activity is performed in private repositories for business and public sector systems.
-
----
-
-## 🌎 Open to Opportunities
-
-I am open to international remote opportunities as:
-
-- Senior PHP Developer
-- Backend PHP Developer
-- Full Stack PHP Developer
-- Software Developer
-- Systems Analyst
-- Technical Lead PHP
-
----
+I'm particularly interested in work that combines software architecture, secure integrations, automation, and the modernization of systems that people depend on.
+Contact
+- Email: silveirafm@gmail.com
+- LinkedIn: linkedin.com/in/silveirafm
+- GitHub: github.com/silveirafm
 
 ## 📊 GitHub Activity
 
@@ -95,9 +78,3 @@ My GitHub profile is focused on presenting my technical background, main skills,
 </div>
 
 ---
-
-## 📫 Contact
-
-- Email: **[silveirafm@gmail.com](mailto:silveirafm@gmail.com)**
-- GitHub: **[https://github.com/silveirafm](https://github.com/silveirafm)**
-- LinkedIn: **[https://www.linkedin.com/in/silveirafm/](https://www.linkedin.com/in/silveirafm/)**
